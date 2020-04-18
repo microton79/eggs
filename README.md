@@ -36,6 +36,9 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [pixel-bot](/bots/discord/pixelbot/) Python
 * [Sinusbot](/bots/discord/sinusbot/)
 
+[Other](/bots/other/)
+* [Big Brother Bot](/bots/other/bigbrotherbot)
+
 [Twitch](/bots/twitch)
 * [PhantomBot](/bots/twitch/phantombot/)
 
