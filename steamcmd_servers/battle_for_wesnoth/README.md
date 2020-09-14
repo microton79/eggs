@@ -1,6 +1,6 @@
-# OpenRA Dune2000
+# Battle for Wesnoth
 
-#### The classic command & conquer Server
+#### Dedicated Server for Battle of Wesnoth
 
 
 #### from the developers
